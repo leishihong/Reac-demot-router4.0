@@ -1,0 +1,70 @@
+{
+	"data" : [
+		{
+			"id": "1",
+			"title": "2016年里约内卢奥运会-帆船",
+			"days": "今天",
+			"time": "07:00",
+			"recomend":[
+				{
+					"url": "../images/icon_15.png",
+					"info": "24位选手比赛"
+				}
+			]
+			
+		},
+		{
+			"id": "2",
+			"title": "足球-欧洲杯",
+			"days": "今天",
+			"time": "20:55",
+			"recomend":[
+				{
+					"url": "../images/icon_18.png",
+					"info": "英格兰"
+				},
+				{
+					"url": "../images/icon_20.png",
+					"info": "威尔士"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"title": "足球-巴甲",
+			"days": "上半场",
+			"time": "20:55",
+			"recomend":[
+				{
+					"url": "../images/icon_22.png",
+					"info": "弗鲁米嫩",
+					"num": 1
+				},
+				{
+					"url": "../images/icon_24.png",
+					"info": "科林笛安",
+					"num": 0
+				}
+			]
+		},
+		{
+			"id": "4",
+			"title": "足球游戏-巴甲",
+			"days": "06月24日",
+			"time": "08:55",
+			"recomend":[
+				{
+					"url": "../images/icon_26.png",
+					"info": "弗鲁米嫩",
+					"num": 1
+				},
+				{
+					"url": "../images/icon_28.png",
+					"info": "科林笛安",
+					"num": 0
+				}
+			]
+		}
+	]
+}
+

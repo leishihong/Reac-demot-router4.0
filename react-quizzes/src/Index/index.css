@@ -1,0 +1,130 @@
+.navTab{
+	background: #2c374d;
+	display: -webkit-flex;
+	justify-content: space-around;
+	margin-bottom: 10px;
+	background: #2c374d;
+}
+.navTab dl{
+	 padding-top: 10px;
+	 border-bottom: 2px solid #658bec;
+}
+.navTab dl dt{
+	width: .3rem;
+	height: .33rem;
+	margin: auto;
+	background: red;
+	 
+}
+.navTab dl dt img{
+	width: 100%;
+	height: 100%;
+}
+.navTab dl dd{
+	font-size: 14px;
+	color: #8198c1;
+	height: .25rem;
+	line-height: .25rem;
+	text-align: center;
+}
+.list1{
+	background: #283347;
+	margin-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.info {
+	height: .4rem;
+	line-height: .4rem;
+	color: #506590;
+	display: -webkit-flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 16px;
+
+}
+
+.datas{
+	background: #2c374d;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #232c3d;
+}
+.datas h3{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #506590;
+	font-size: 16px;
+	position: relative;
+}
+.datas h3 span{
+	width: 5x;
+	height: 20px;
+	background: #506590;
+	position: absolute;
+	top:10px;
+	left: 10px;
+	margin-right: 20px;
+	 
+}
+.list{
+	padding-left: 10px;
+	padding-right: 10px;
+	display:  -webkit-flex;
+	justify-content: space-between;
+	align-items: center;
+}
+._left{
+	width: 25%;
+	border-right: 2px solid #3a4966;
+	text-align: center;
+	color: #506590;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+._left span{
+	font-size: 14px;
+	display: inline-block;
+}
+._left b{
+	font-size: 22px;
+	display: block;
+}
+._right{
+	flex: 1;
+	padding-left:20px;
+	
+}
+._right dl{
+	display: -webkit-flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	cursor:point;
+}
+._right dl dd{
+	width: .15rem;
+	height: .12rem;
+}
+._right dl dt img{
+	width: 100%;
+	height: 100%;
+}
+._right dl dd{
+	flex: 1;
+	padding-left: 20px;
+	color: #bfcff0;
+	font-size: 16px;
+}
+.jing{
+	width: 60px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	background: #4868bb;
+	border-radius: 15px;
+	text-align: center;
+	color: #fffeff;
+}

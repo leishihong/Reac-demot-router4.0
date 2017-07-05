@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.wrap{
+	position: absolute;
+	top:0;
+	bottom:0;
+	width:100%;
+	display: -webkit-flex;
+	flex-direction: column;
+	background: #232c3d;
+	font-size: 16px;
+}
+
+.main{
+	height: auto;
+	flex: 1;
+	overflow-y: auto;
+	background: #2c374d;
+}
+
